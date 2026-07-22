@@ -1,4 +1,4 @@
-# 📖 Panduan Lengkap — Business Analyst Agent (#2)
+# 📖 Panduan Lengkap - Business Analyst Agent
 
 Panduan ini menjelaskan cara setup dan menjalankan **Business Analyst Agent** dari awal hingga bisa diakses secara publik.
 
